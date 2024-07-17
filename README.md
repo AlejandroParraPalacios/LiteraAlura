@@ -1,4 +1,5 @@
 # LiterAlura: Gestión de Libros y Autores
+![badge literalura](https://github.com/user-attachments/assets/b4ea7af8-1d06-4679-a2aa-f4e5db9cac18)
 **LiterAlura** es una aplicación Java basada en Spring Boot diseñada para ayudar a los amantes de la literatura a gestionar libros y autores de manera eficiente. Esta solución está creada como parte del desafío de Alura para utilizar tecnologías modernas en la gestión de bases de datos de libros y autores.
 
 ## Características
